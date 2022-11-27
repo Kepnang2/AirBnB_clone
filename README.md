@@ -1,8 +1,7 @@
-https://github.com/bdbaraban/AirBnB_clone_v2/raw/master/assets/hbnb_logo.png
+
 0x00. AirBnB clone - The console
 Description of the project.
 The Airbnb Clone: The console. This repository holds a command interpreter and classes (such as; BaseModel classand other classes that inherit from BaseModel: Amenity, City, State, Place, Review), and a command interpreterlike 
-https://github.com/bdbaraban/AirBnB_clone_v2/raw/master/assets/hbnb_stack.png
 Command interpreter functionalities.
 Create a new object (ex: a new User or a new Place)
 Retrieve an object from a file, a database etc…
