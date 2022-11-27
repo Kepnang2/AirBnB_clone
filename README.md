@@ -1,8 +1,8 @@
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221127T174123Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9a0b135ddc06f8dd139b2f620bf7609f100eb29c87cb0ae104a8ed19c6d0561d
+https://github.com/bdbaraban/AirBnB_clone_v2/raw/master/assets/hbnb_logo.png
 0x00. AirBnB clone - The console
 Description of the project.
-The Airbnb Clone: The console. This repository holds a command interpreter and classes (such as; BaseModel classand other classes that inherit from BaseModel: Amenity, City, State, Place, Review), and a command interpreterlike a shell
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221127T174123Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=23f068b878a09bd717a6e8c450d89b3c34004bce19f1469352ee74777f8cca4d
+The Airbnb Clone: The console. This repository holds a command interpreter and classes (such as; BaseModel classand other classes that inherit from BaseModel: Amenity, City, State, Place, Review), and a command interpreterlike 
+https://github.com/bdbaraban/AirBnB_clone_v2/raw/master/assets/hbnb_stack.png
 Command interpreter functionalities.
 Create a new object (ex: a new User or a new Place)
 Retrieve an object from a file, a database etc…
